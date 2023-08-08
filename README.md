@@ -8,5 +8,9 @@ The primary goal of this challenge is to enhance my understanding of various dat
 I'll be documenting my daily progress in this README. Each day, I'll summarize what I've learned, the problems I've solved, and any additional resources I've found helpful.
 
 ## Daily Logs
-#### Day-1
-Reverse an array problem solved and explored different algorithms.
+##### Day-1 
+* Reverse an array problem solved and explored different algorithms.</br>
+* Find the maximum and minimum element in an array.
+##### Day-2
+* Find the "Kth" max and min element of an array </br>
+* Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo.
