@@ -45,3 +45,15 @@ sort_array_0s_1s_2s(A,n)
 i=0  
 for i in A:  
   print(i) 
+
+
+
+#Another method
+
+a=[1,0,1,2,2,0]
+for i in range(1,len(a)):
+    while(a[i-1]>a[i] & i>=0):
+        a[i-1],a[i]=a[i],a[i-1]
+        print(a)
+        i=i-1
+print(a)
