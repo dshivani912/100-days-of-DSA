@@ -13,3 +13,14 @@ while(mid<len(a)):
     else:
         mid=mid+1
 print(a)
+
+
+#Another method
+
+a=[11, -13, -5, 6, -7, 5, -3, -6]
+for i in range(1,len(a)):
+    while((a[i-1])>0 & a[i]<0):
+        a[i-1],a[i]=a[i],a[i-1]
+        print(a)
+        i=i-1
+print(a)
