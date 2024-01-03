@@ -17,3 +17,8 @@ I'll be documenting my daily progress in this README. Each day, I'll summarize w
 ##### Day-3
 * Move all the negative elements to one side of the array.
 * Find the Union and Intersection of the two sorted arrays.
+##### Day-4
+* Write a program to cyclically rotate an array by one.
+##### Day-5
+* Find Largest sum contiguous Subarray
+* Minimise the maximum difference between heights 
