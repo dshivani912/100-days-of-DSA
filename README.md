@@ -21,4 +21,6 @@ I'll be documenting my daily progress in this README. Each day, I'll summarize w
 * Write a program to cyclically rotate an array by one.
 ##### Day-5
 * Find Largest sum contiguous Subarray
-* Minimise the maximum difference between heights 
+* Minimise the maximum difference between heights
+##### Day-6
+* Minimise the maximum difference between heights
