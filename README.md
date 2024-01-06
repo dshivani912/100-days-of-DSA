@@ -24,3 +24,5 @@ I'll be documenting my daily progress in this README. Each day, I'll summarize w
 * Minimise the maximum difference between heights
 ##### Day-6
 * Minimise the maximum difference between heights
+##### Day-7
+* Minimum number of Jumps to reach end of an array
