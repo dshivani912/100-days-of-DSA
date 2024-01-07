@@ -26,3 +26,5 @@ I'll be documenting my daily progress in this README. Each day, I'll summarize w
 * Minimise the maximum difference between heights
 ##### Day-7
 * Minimum number of Jumps to reach end of an array
+##### Day-8
+* Find a duplicate in an array of N+1 Integers (Floyd's Cycle Detection algorithm)
